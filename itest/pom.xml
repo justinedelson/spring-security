@@ -3,12 +3,12 @@
     <parent>
         <groupId>org.springframework.security</groupId>
         <artifactId>spring-security-parent</artifactId>
-        <version>3.0.2.CI-SNAPSHOT</version>
+        <version>5.4.0</version>
     </parent>
     <artifactId>spring-security-itest</artifactId>
     <name>Spring Security - Integration Tests</name>
     <packaging>pom</packaging>
-    <version>3.0.2.CI-SNAPSHOT</version>
+    <version>5.4.0</version>
     <modules>
         <module>web</module>
         <!-- module>webflow</module-->
