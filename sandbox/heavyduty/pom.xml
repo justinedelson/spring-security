@@ -205,7 +205,7 @@
     </build>
     <properties>
         <spring.version>3.0.0.RELEASE</spring.version>
-        <spring.security.version>3.0.2.CI-SNAPSHOT</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
     </properties>
 
 </project>
